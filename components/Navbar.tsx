@@ -6,8 +6,8 @@ import Button from "./Button";
 
 const Navbar = () => {
   return (
-    <section className="px-20">
-      <nav className="flex justify-between container">
+    <section className="text-lg">
+      <nav className="flex justify-around">
         <Link href={"/"}>
           <Image
             src="/crumble_logo.png"
@@ -17,10 +17,10 @@ const Navbar = () => {
 
           ></Image>
         </Link>
-        <ul className="flex my-auto gap-20  ">
+        <ul className="flex my-auto gap-10  ">
           {NAV_LİNKS.map((link, index) => (
             <li
-              className="hover:border-b-2 hover:border-orange-900 hover:font-bold"
+              className="hover:border-b-2 hover:border-color2 hover:font-bold"
               key={index}
             >
               <a href={link.href}>{link.label} </a>
