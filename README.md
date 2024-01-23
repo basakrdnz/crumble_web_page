@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 In this project, I am aiming to create a large-scale application, even though I may not be familiar with all the technologies at the moment. I plan to incorporate SQL, various libraries, Sass, JavaScript, and more. 
 I am coding actively for 4 months and learning Next.js for 2 months now and I really wanted to show what I can do and will planning to do in this project.
 Also today (24.01.2024) I have looked for Sass to upgrade my abilities and I wanted to use Sass in this project too but right now we are going without it.
+
 ***Furtermore this project will be a Coffee Shop's website I hope so wish me luck in this jurney..
 
 
