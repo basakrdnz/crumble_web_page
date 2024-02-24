@@ -2,7 +2,7 @@ import React from 'react'
 
 const FavMenu = () => {
   return (
-    <div>FavMenu</div>
+    <section>FavMenu</section>
   )
 }
 
