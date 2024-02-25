@@ -5,6 +5,10 @@ In this project, I am aiming to create a large-scale application, even though I 
 I am coding actively for 4 months and learning Next.js for 2 months now and I really wanted to show what I can do and will planning to do in this project.
 Also today (24.01.2024) I have looked for Sass to upgrade my abilities and I wanted to use Sass in this project too but right now we are going without it.
 
+25.02.2024: It has been a long time because I was in an holiday but Im back so we can roll again.
+Today I am  tring to add a database to my project for the menü part because when this project finishes, (I hope in few months) I dont want any thing unreal in it and I really want to people who will going to use this can change some of the stuffs easly with what I have coded.
+
+
 ***Furtermore this project will be a Coffee Shop's website I hope so wish me luck in this jurney..
 
 
